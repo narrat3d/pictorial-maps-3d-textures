@@ -17,3 +17,5 @@ This is a fork from https://github.com/saic-vul/coordinate_based_inpainting (MIT
 
 * Attention: A total PC power-off can occur during inference sometimes. 
 * The original model is trained with humans from photos, therefore textures may look quite realistic (e.g., faces).
+
+© 2022-2023 ETH Zurich, Raimund Schnürer
