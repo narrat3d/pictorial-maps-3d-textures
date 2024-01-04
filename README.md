@@ -1,6 +1,6 @@
 # Texture inpainting for human figures (from pictorial maps)
 
-This is a fork from https://github.com/saic-vul/coordinate_based_inpainting
+This is a fork from https://github.com/saic-vul/coordinate_based_inpainting (MIT License, Copyright by Samsung Electronics Co., Ltd.)
 
 ## Usage
 
